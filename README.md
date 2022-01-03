@@ -1,2 +1,2 @@
 # Flag-of-Bangladesh-Drawing-By-Opengl-In-C++
-Open the bangladesh named folder and then open "main.cpp" to run the program.
+Open the "bangladeshflag" named folder and then you will find the "main.cpp" file. Open "main.cpp" file to see the code, then run the code in the compiler.
